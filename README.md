@@ -1,5 +1,6 @@
-# CSharpExamples
-C# Programlama dili ile ilgili temel örnekleri içermektedir.
+# C# Examples
 
- Merhabalar Arkadaşlar C# Dilini öğrenmeye başladım ve yaptığım örnekleride sizlerle paylaşmak istedim.<br/>
- C Sharp ile ilgili temel örnekler yapmaya çalıştım ve daha fazla örnek yaptıkça da sizlerle paylaşmaya devam edeceğim.
+It contains the basic documentation about the C# Programming language.
+
+Hello Friends, we started to speak C# Language and I wanted to share with you examples in their collections.<br/>
+We will continue to share with you as he tries to make the basic tables of C Sharp and produces more examples.
